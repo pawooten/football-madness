@@ -1,22 +1,27 @@
 [
 {
     "Name": "Scott Scottsdale",
+    "Description": "Pretty boy QB with the chance for a prolific career, if he can stay upright.",
     "Position": "QB"
 },
 {
     "Name": "Fazoli Nelson",
+    "Description": "A working man's QB, ready to get rough and do what it takes for a win.",
     "Position": "QB"
 },
 {
     "Name": "Roger Brassiere",
-    "Position": ""
+    "Description": "No nonsense G who always means business.",
+    "Position": "G"
 },
 {
     "Name": "Jackson Hewitt",
+    "Description": "One of the fastest in the league, but fewer drops were a focal point during the off season.",
     "Position": "WR"
 },
 {
     "Name": "Salacious Johnson",
+    "Description": "Bad boy superstar on and off the field, an explosive play maker but several off the field concerns.",
     "Position": "WR"
 },
 {
